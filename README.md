@@ -1,6 +1,6 @@
 
 <h1 align="center">
-Xiaoming's homepage
+Xiaoming's private homepage
 </h1>
 
 <div align="center">
@@ -9,6 +9,8 @@ Xiaoming's homepage
 <p align="center">
 
 </p>
+
+[Private homepage](https://xiaomran.github.io)
 
 ## Acknowledges
 
